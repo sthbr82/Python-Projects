@@ -1,0 +1,3 @@
+[submodule "SpotifyPlaylist"]
+	path = SpotifyPlaylist
+	url = https://github.com/sthbr82/Spotify-Playlist-Project.git
