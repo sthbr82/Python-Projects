@@ -1,3 +1,6 @@
 [submodule "SpotifyPlaylist"]
 	path = SpotifyPlaylist
 	url = https://github.com/sthbr82/Spotify-Playlist-Project.git
+[submodule "day-71-starting-files-blog-for-deployment"]
+	path = day-71-starting-files-blog-for-deployment
+	url = https://github.com/sthbr82/Blog.git
