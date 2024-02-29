@@ -4,3 +4,6 @@
 [submodule "day-71-starting-files-blog-for-deployment"]
 	path = day-71-starting-files-blog-for-deployment
 	url = https://github.com/sthbr82/Blog.git
+[submodule "Amazon_Price_Tracker"]
+	path = Amazon_Price_Tracker
+	url = https://github.com/sthbr82/Amazon-Price-Tracker
