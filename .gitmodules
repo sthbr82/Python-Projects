@@ -7,3 +7,6 @@
 [submodule "Amazon_Price_Tracker"]
 	path = Amazon_Price_Tracker
 	url = https://github.com/sthbr82/Amazon-Price-Tracker
+[submodule "flight-deals"]
+	path = flight-deals
+	url = https://github.com/sthbr82/FlightDeals.git
